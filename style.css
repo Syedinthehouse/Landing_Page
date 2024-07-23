@@ -1,0 +1,147 @@
+header {
+  background-color: #1f2937;
+}
+
+.Main {
+  display: flex;
+}
+.Logo {
+  font-size: 24px;
+  color: #f9faf8;
+  justify-content: right;
+  margin-left: 10px;
+}
+.main {
+  font-size: 18px;
+  color: #e5e7eb;
+  text-decoration: none;
+  display: flex;
+  flex-direction: row;
+  /* margin: 24px; */
+  gap: 70px;
+  margin-left: 50%;
+  margin-top: 24px;
+}
+.contents {
+  font-size: 48px;
+  margin: 24px;
+  margin-top: 100px;
+  color: #f9faf8;
+}
+.desc {
+  font-size: small;
+}
+.secondpart {
+  display: flex;
+  padding-bottom: 10%;
+}
+.image {
+  height: 200px;
+  width: 600px;
+  margin-top: 5%;
+  margin-left: 25%;
+  background-color: antiquewhite;
+  text-align: center;
+  align-content: center;
+}
+.button1 {
+  border: 0;
+  line-height: 2.5;
+  padding: 0 20px;
+  font-size: 1rem;
+  text-align: center;
+  color: white;
+  text-shadow: 1px 1px 1px #000;
+  border-radius: 10px;
+  background-color: #3882f6;
+}
+h1 {
+  font-size: 36px;
+  color: #1f2937;
+  text-align: center;
+}
+#images {
+  border: 0;
+  display: flex;
+  padding: 50px;
+  border-radius: 20px;
+  justify-content: center;
+  gap: 40px;
+}
+.image1 {
+  height: 250px;
+  width: 250px;
+  border: 4px solid rgba(29, 29, 33, 0.901);
+}
+
+.image2 {
+  height: 250px;
+  width: 250px;
+  border: 4px solid rgba(29, 29, 33, 0.901);
+}
+.image3 {
+  height: 250px;
+  width: 250px;
+  border: 4px solid rgba(29, 29, 33, 0.901);
+}
+.image4 {
+  height: 250px;
+  width: 250px;
+  border: 4px solid rgba(29, 29, 33, 0.901);
+}
+#content {
+  text-align: center;
+}
+.quote {
+  background-color: #e5e7eb;
+  height: 400px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #1f2937;
+  font-family: light italic;
+  font-size: 36px;
+}
+.author {
+  text-align: end;
+  font-family: Arial, Helvetica, sans-serif;
+}
+#sign {
+  height: 150px;
+  width: 1000px;
+  background-color: #3882f6;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+}
+.sign {
+  display: flex;
+  justify-content: center;
+  margin: 100px;
+}
+#action {
+  font-size: 36px;
+}
+#click {
+  font-size: 20px;
+}
+.button2 {
+  border: 0;
+  line-height: 3;
+  padding: 0 20px;
+  font-size: 1rem;
+  text-align: center;
+  margin-left: 100px;
+  text-shadow: 1px 1px 1px #000;
+  border-radius: 10px;
+}
+.footer {
+  background-color: #1f2937;
+  color: #e5e7eb;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100px;
+}
